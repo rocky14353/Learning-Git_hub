@@ -1,1 +1,2 @@
 hey part of learning git.
+setting my remote repository for default
